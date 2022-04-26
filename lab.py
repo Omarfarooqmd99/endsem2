@@ -1,0 +1,6 @@
+print("Devops")
+print("HPC")
+print("csit")
+print("research")
+print("seminar")
+print("capstone")
